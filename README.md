@@ -36,7 +36,7 @@ gcc Main.o HashTable.o -o PackageTrackingSystem
 Follow the on-screen prompts to interact with the Package Tracking System.
 
 ## File Structure
-
+- **Doc folder:** Contains Doxygen documentation.
 - **Main.c:** Contains the main function and user interface.
 - **HashTable.h/HashTable.c:** Implements hash table functions.
 - **Node.h/Node.c:** Defines the node structure for the hash table.
