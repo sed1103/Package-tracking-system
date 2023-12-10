@@ -10,7 +10,7 @@ The Package Tracking System is a simple program that enables users to add, displ
 - **Display Package:** Display information about a specific package.
 - **Update Package:** Update information about a specific package.
 - **Display All Packages:** Display information about all packages in the system.
-- **Save to File:** Save package information to a CSV file.
+- **Save to File:** Save package information to a txt file.
 
 ## Getting Started
 
