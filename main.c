@@ -17,7 +17,7 @@ int main() {
 
     // Main loop
     while (1) {
-        printf("Enter action (add, display, update, exit): ");
+        printf("Enter action (add, display, remove, update, exit): ");
         scanf("%s", action);
 
         if (strcmp(action, "add") == 0) {
